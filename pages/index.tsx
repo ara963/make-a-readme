@@ -112,14 +112,6 @@ export default function Home() {
             />
 
 
-            <aside id="ethicalads-section" className="flex justify-center">
-                <div
-                    className="horizontal"
-                    data-ea-publisher="makeareadmecom"
-                    data-ea-type="image"
-                ></div>
-            </aside>
-
 
             <Template />
 
